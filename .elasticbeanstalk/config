@@ -1,6 +1,6 @@
 [global]
-ApplicationName=Skool Identity Provider
+ApplicationName=Skool Identity
 AwsCredentialFile=C:\Users\Robin\.elasticbeanstalk\aws_credential_file
 DevToolsEndpoint=git.elasticbeanstalk.eu-west-1.amazonaws.com
-EnvironmentName=Default-Environment
+EnvironmentName=skool-Identity
 Region=eu-west-1
